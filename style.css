@@ -1,0 +1,17 @@
+
+h2  { 
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    text-align: center;
+}
+
+hr {
+    color: black;
+    font-weight: 600;
+}   
+
+img {
+    height: 200px;
+}
